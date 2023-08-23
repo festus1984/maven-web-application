@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>toyota-app</finalName>
+		<finalName>tesla-app</finalName>
 		
 		<plugins>
 			<plugin>
